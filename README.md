@@ -1,7 +1,9 @@
-# Life Log
+# Log
 
-Self-service lake frontend for the LifeSpan family of products
+![Log](https://github.com/Yrkki/cv-generator-life-logo/blob/master/favicon/cv-generator-life-log/favicon/favicon.ico?raw=true)
+
+Access and performance logging, and object storage for the LifeSpan℠ ecosystem
 
 ---
 
-© 1984 – 2021 [Marinov](http://marinov.ml "Marinov"). All rights reserved
+© 2018 [Marinov](http://marinov.link "Marinov"). All rights reserved.
